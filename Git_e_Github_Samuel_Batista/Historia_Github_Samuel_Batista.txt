@@ -1,0 +1,5 @@
+Por definição, o Git é um Sistema de Controle de Versão Distribuído. Ele foi criado por Linus Torvalds, que é mais conhecido por outra criação, o Linux.
+Linus desenvolveu o Git após ter ficado insatisfeito com uma mudança de licença de utilização do BitKeeper, o sistema de controle de versão que era utilizado por ele e pela equipe que desenvolvia o Linux.
+Como na época não existia nada similar, ele resolveu criar a sua própria versão de um sistema para controlar as alterações do projeto Linux.
+A Microsoft comprou o GitHub. A desenvolvedora do Windows encerrou seu próprio concorrente, o Codeplex, em dezembro de 2017, e agora é o principal contribuidor do GitHub. A popularidade do GitHub entre os desenvolvedores pode fazer com que a Microsoft conquiste a confiança e o respeito que precisa; ou não.
+Atráves do GitDesktop.
